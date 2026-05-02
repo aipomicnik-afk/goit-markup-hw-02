@@ -6,7 +6,7 @@
     font-size: 56px;
     font-weight: 700;
     text-align: center;
-    line-height: 1.333;
+    line-height: 1.07;
 }
 .order-button {
     background-color: #4D5AE5;
@@ -16,6 +16,6 @@
     line-height: 1.5;
     cursor: pointer;
 }
-.order-button:hover {
+.order-button:hover, .order-button:focus {
     background-color: #404BBF;
 }
