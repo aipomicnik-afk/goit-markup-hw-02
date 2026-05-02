@@ -1,0 +1,27 @@
+.team-section {
+    background-color: #F4F4FD;
+   
+}
+
+.team-title {
+    color: #2E2F42;
+    font-size: 36px;
+    line-height: 1.111; 
+    text-align: center;
+}
+
+.team-list {
+background-color: #FFFFFF;
+}
+
+.team-subtitle {
+    text-align: center;
+    font-weight: 500;
+    color: #2E2F42;
+    line-height: 1.2;
+}
+
+.team-text {
+    text-align: center;
+    line-height: 1.5;
+}

@@ -1,0 +1,38 @@
+.title {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 700;
+
+.logo {
+        font-size: 18 px;
+        font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        color: #2E2F42;
+        line-height: 1.333;
+}
+
+.logo-start {
+    color: #4D5AE5;
+}
+
+.navigation {
+    font-weight: 500;
+    color: #2E2F42;
+    line-height: 1.5;
+}
+
+.contacts {
+    font-weight: 400;
+    line-height: 1.5;
+    font-style: normal;
+}
+.features-nav:hover, .team-nav:hover, .portfolio-nav:hover {
+    color:#404BBF;
+}
+.features-nav:active {
+    color: #404BBF;
+    text-decoration: underline;
+}
+.contact-mail:hover, .contact-tel:hover {
+    color: #404BBF;
+}
